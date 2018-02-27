@@ -1,0 +1,3 @@
+rootProject.name = 'persian_melody'
+
+include ':app'
